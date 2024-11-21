@@ -1,0 +1,3 @@
+[submodule "git-submodule-libs/testRepo"]
+	path = git-submodule-libs/testRepo
+	url = https://github.com/cxnajder/testRepo.git
